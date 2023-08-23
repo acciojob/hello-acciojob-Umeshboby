@@ -2,10 +2,10 @@
 #job{
 	 height: 150px;
     width: 150px;
-    background-color: #000000;
+    background-color: black;
 }
 .hello-accio{
-    color:rgb(255, 255, 255);
+    color: white;
     margin-left: 32px;
     padding: 10px;
 }

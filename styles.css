@@ -1,11 +1,11 @@
 
 main{
-	 height: 150px;
-    width: 150px;
+	 height: '984pxpx;
+    width:'984pxpx;
     background-color: black;
 }
 .hello-accio{
-    color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
     margin-left: 32px;
     padding: 10px;
 }
